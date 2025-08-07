@@ -21,4 +21,3 @@ A fun and interactive number guessing game written in Python that uses the `pytt
 
 ```bash
 git clone https://github.com/Kalyan-github-4/Python-Projects/blob/main/guess_num.py.git
-cd 
