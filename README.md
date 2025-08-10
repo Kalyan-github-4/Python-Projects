@@ -15,6 +15,10 @@ A fun and interactive number guessing game written in Python that uses the `pytt
 - `random` module (standard)
 - `pyttsx3` (for text-to-speech)
 
+## License
+This project is licensed under the Apache License 2.0 — see the `LICENSE` file.
+[![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0)
+
 ## 🚀 How to Run
 
 ### 1. Clone the repository or copy the script
